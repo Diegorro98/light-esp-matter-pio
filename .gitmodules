@@ -1,3 +1,4 @@
 [submodule "lib/esp-matter"]
 	path = lib/esp-matter
-	url = https://github.com/espressif/esp-matter.git
+	url = https://github.com/Diegorro98/esp-matter.git
+	branch = pio-patch
